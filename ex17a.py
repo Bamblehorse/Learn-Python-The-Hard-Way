@@ -1,0 +1,1 @@
+from sys import argv; s, f, t = argv; open(t, 'w').write(open(f).read())
